@@ -12,7 +12,9 @@
 - 👨‍💻 All of my projects are available at [Linktree](https://linktr.ee/amitrajstm)  
 - 💬 Ask me about **Web Development, React, and JavaScript**  
 - ⚡ Fun fact: **I love solving problems and making people laugh 😅**
+<br>
 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,6 +57,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 </p>
+<br>
+
 ---
 
 <h3 align="left">Support:</h3>
@@ -75,6 +79,9 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrajstm&show_icons=true&locale=en" alt="Amit Kumar Raj Stats" />
 </p>
+<br>
+
+---
 
 ### 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=amitrajstm&theme=tokyonight&hide_border=false)
