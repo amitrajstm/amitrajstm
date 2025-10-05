@@ -13,7 +13,6 @@
 - 💬 Ask me about **Web Development, React, and JavaScript**  
 - ⚡ Fun fact: **I love solving problems and making people laugh 😅**
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,49 +35,32 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCN_L-y9vq_eXdROfWn-VZ__SrQNSPzrVHyw&s" alt="ExpressJS" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
+### 🧰 Languages and Tools
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" width="40" height="40"/>
+</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 </p>
-
 ---
 
 <h3 align="left">Support:</h3>
 <p>
-    <a href="https://www.youtube.com/@ScrollwithAmitRaj">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Scroll with Amit Raj" />
+    <a href="https://www.youtube.com/@stmcoder">
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="STM CODER" />
     </a>
 </p>
 <br><br>
@@ -94,6 +76,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrajstm&show_icons=true&locale=en" alt="Amit Kumar Raj Stats" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrajstm" alt="Amit Kumar Raj Streak" />
-</p>
+### 📈 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=amitrajstm&theme=tokyonight&hide_border=false)
+
+
+
+
